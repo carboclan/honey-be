@@ -34,6 +34,14 @@
 $ npm install
 ```
 
+## Install MongoDB
+
+```
+$ brew tap mongodb/brew
+$ brew install mongodb-community
+$ brew services start mongodb-community
+```
+
 ## Running the app
 
 ```bash
